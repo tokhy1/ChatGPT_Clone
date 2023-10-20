@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Preview
+![screenshot](https://github.com/tokhy1/ChatGPT_Clone/assets/140895791/9f952f9d-9aba-46b7-8a33-833b3422af97)
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -68,3 +71,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+## Contact 
+- Email: <mohamed21346587@gmail.com>
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mohamed-ashraf-abd-elmoneam-409538246?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgLq%2BPh0QQX62Mwzt3ozQGQ%3D%3D)
+
+
+Happy Coding!
