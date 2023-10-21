@@ -14,6 +14,9 @@ import { sendMessageToOpenAi } from "./openAi";
 import { useEffect, useRef, useState } from "react";
 
 function App() {
+
+  // uncomment the functions.
+  
   const msgEnd = useRef(null);
   const [input, setInput] = useState("");
   const [messages, setMessages] = useState([
